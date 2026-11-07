@@ -2,6 +2,7 @@
 ## A. Công việc đã làm
 - Đo giá trị khi không tác động với nhiều môi trường và với 2 máy
 - Hàn thêm linh kiện vào 1 mạch mới
+- Đồ thị các mức lực
 ## B. Khó Khăn
 ## C. Báo cáo chi tiết 
 ### 1. Code chi tiết
