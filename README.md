@@ -6,7 +6,7 @@
 ## B. Khó Khăn
 ## C. Báo cáo chi tiết 
 ### 1. Code chi tiết
-
+https://github.com/anpham2k5/bao_cao_7_11/tree/master/STM32_ADC_Touch/src
 ### 2. Tiến hành đo ở nhiều môi trường và nhiều máy khác nhau
 - Mạch hàn lần 1(chip được lấy ra từ mạch cũ) gọi là mạch 1
 - Mạch hàn lần 2(chip và linh kiện hoàn toàn mới) gọi là mạch 2
